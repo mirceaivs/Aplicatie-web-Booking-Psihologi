@@ -1,0 +1,2134 @@
+[
+    {
+        "judet": "Alba",
+        "oras": "Alba Iulia"
+    },
+    {
+        "judet": "Alba",
+        "oras": "Abrud"
+    },
+    {
+        "judet": "Alba",
+        "oras": "Aiud"
+    },
+    {
+        "judet": "Alba",
+        "oras": "Baia de Arieș"
+    },
+    {
+        "judet": "Alba",
+        "oras": "Blaj"
+    },
+    {
+        "judet": "Alba",
+        "oras": "Câmpeni"
+    },
+    {
+        "judet": "Alba",
+        "oras": "Cugir"
+    },
+    {
+        "judet": "Alba",
+        "oras": "Ocna Mureș"
+    },
+    {
+        "judet": "Alba",
+        "oras": "Teiuș"
+    },
+    {
+        "judet": "Arad",
+        "oras": "Arad"
+    },
+    {
+        "judet": "Arad",
+        "oras": "Aradu Nou"
+    },
+    {
+        "judet": "Arad",
+        "oras": "Chișineu-Criș"
+    },
+    {
+        "judet": "Arad",
+        "oras": "Curtici"
+    },
+    {
+        "judet": "Arad",
+        "oras": "Ineu"
+    },
+    {
+        "judet": "Arad",
+        "oras": "Lipova"
+    },
+    {
+        "judet": "Arad",
+        "oras": "Nădlac"
+    },
+    {
+        "judet": "Arad",
+        "oras": "Pâncota"
+    },
+    {
+        "judet": "Arad",
+        "oras": "Pecica"
+    },
+    {
+        "judet": "Arad",
+        "oras": "Sântana"
+    },
+    {
+        "judet": "Arad",
+        "oras": "Sebiș"
+    },
+    {
+        "judet": "Arad",
+        "oras": "Sebiș"
+    },
+    {
+        "judet": "Argeș",
+        "oras": "Pitești"
+    },
+    {
+        "judet": "Argeș",
+        "oras": "Câmpulung"
+    },
+    {
+        "judet": "Argeș",
+        "oras": "Mioveni"
+    },
+    {
+        "judet": "Argeș",
+        "oras": "Ștefănești"
+    },
+    {
+        "judet": "Argeș",
+        "oras": "Costea"
+    },
+    {
+        "judet": "Argeș",
+        "oras": "Budeasa"
+    },
+    {
+        "judet": "Argeș",
+        "oras": "Rucăr"
+    },
+    {
+        "judet": "Argeș",
+        "oras": "Călinești"
+    },
+    {
+        "judet": "Argeș",
+        "oras": "Călinești"
+    },
+    {
+        "judet": "Bacău",
+        "oras": "Bacău"
+    },
+    {
+        "judet": "Bacău",
+        "oras": "Moinești"
+    },
+    {
+        "judet": "Bacău",
+        "oras": "Buhuși"
+    },
+    {
+        "judet": "Bacău",
+        "oras": "Comănești"
+    },
+    {
+        "judet": "Bacău",
+        "oras": "Onești"
+    },
+    {
+        "judet": "Bacău",
+        "oras": "Măgura"
+    },
+    {
+        "judet": "Bacău",
+        "oras": "Podu Turcului"
+    },
+    {
+        "judet": "Bacău",
+        "oras": "Târgu Ocna"
+    },
+    {
+        "judet": "Bacău",
+        "oras": "Bernești"
+    },
+    {
+        "judet": "Bacău",
+        "oras": "Bernești"
+    },
+    {
+        "judet": "Bihor",
+        "oras": "Oradea"
+    },
+    {
+        "judet": "Bihor",
+        "oras": "Săcueni"
+    },
+    {
+        "judet": "Bihor",
+        "oras": "Salonta"
+    },
+    {
+        "judet": "Bihor",
+        "oras": "Marghita"
+    },
+    {
+        "judet": "Bihor",
+        "oras": "Beiuș"
+    },
+    {
+        "judet": "Bihor",
+        "oras": "Aleșd"
+    },
+    {
+        "judet": "Bihor",
+        "oras": "Valea lui Mihai"
+    },
+    {
+        "judet": "Bihor",
+        "oras": "Aleșd"
+    },
+    {
+        "judet": "Bistrița-Năsăud",
+        "oras": "Bistrița"
+    },
+    {
+        "judet": "Bistrița-Năsăud",
+        "oras": "Sângeorz-Băi"
+    },
+    {
+        "judet": "Bistrița-Năsăud",
+        "oras": "Năsăud"
+    },
+    {
+        "judet": "Bistrița-Năsăud",
+        "oras": "Beclean"
+    },
+    {
+        "judet": "Bistrița-Năsăud",
+        "oras": "Bistrița-Bârgăului"
+    },
+    {
+        "judet": "Bistrița-Năsăud",
+        "oras": "Bistrița-Bârgăului"
+    },
+    {
+        "judet": "Bistrița-Năsăud",
+        "oras": "Bistrița-Bârgăului"
+    },
+    {
+        "judet": "Bistrița-Năsăud",
+        "oras": "Bistrița-Bârgăului"
+    },
+    {
+        "judet": "Bistrița-Năsăud",
+        "oras": "Bistrița-Bârgăului"
+    },
+    {
+        "judet": "Botoșani",
+        "oras": "Botoșani"
+    },
+    {
+        "judet": "Botoșani",
+        "oras": "Dorohoi"
+    },
+    {
+        "judet": "Botoșani",
+        "oras": "Săveni"
+    },
+    {
+        "judet": "Botoșani",
+        "oras": "Flămânzi"
+    },
+    {
+        "judet": "Botoșani",
+        "oras": "Dorohoi"
+    },
+    {
+        "judet": "Botoșani",
+        "oras": "Flămânzi"
+    },
+    {
+        "judet": "Botoșani",
+        "oras": "Dorohoi"
+    },
+    {
+        "judet": "Botoșani",
+        "oras": "Flămânzi"
+    },
+    {
+        "judet": "Botoșani",
+        "oras": "Dorohoi"
+    },
+    {
+        "judet": "Botoșani",
+        "oras": "Flămânzi"
+    },
+    {
+        "judet": "Brăila",
+        "oras": "Brăila"
+    },
+    {
+        "judet": "Brăila",
+        "oras": "Făurei"
+    },
+    {
+        "judet": "Brăila",
+        "oras": "Ianca"
+    },
+    {
+        "judet": "Brăila",
+        "oras": "Râmnicelu"
+    },
+    {
+        "judet": "Brăila",
+        "oras": "Surdila-Găiseanca"
+    },
+    {
+        "judet": "Brăila",
+        "oras": "Brăila"
+    },
+    {
+        "judet": "Brăila",
+        "oras": "Făurei"
+    },
+    {
+        "judet": "Brăila",
+        "oras": "Ianca"
+    },
+    {
+        "judet": "Brăila",
+        "oras": "Râmnicelu"
+    },
+    {
+        "judet": "Brăila",
+        "oras": "Surdila-Găiseanca"
+    },
+    {
+        "judet": "Brașov",
+        "oras": "Brașov"
+    },
+    {
+        "judet": "Brașov",
+        "oras": "Săcele"
+    },
+    {
+        "judet": "Brașov",
+        "oras": "Făgăraș"
+    },
+    {
+        "judet": "Brașov",
+        "oras": "Râșnov"
+    },
+    {
+        "judet": "Brașov",
+        "oras": "Zărnești"
+    },
+    {
+        "judet": "Brașov",
+        "oras": "Codlea"
+    },
+    {
+        "judet": "Brașov",
+        "oras": "Ghimbav"
+    },
+    {
+        "judet": "Brașov",
+        "oras": "Rupea"
+    },
+    {
+        "judet": "Brașov",
+        "oras": "Sânpetru"
+    },
+    {
+        "judet": "Brașov",
+        "oras": "Săcele"
+    },
+    {
+        "judet": "Brăila",
+        "oras": "Brăila"
+    },
+    {
+        "judet": "Brăila",
+        "oras": "Făurei"
+    },
+    {
+        "judet": "Brăila",
+        "oras": "Ianca"
+    },
+    {
+        "judet": "Brăila",
+        "oras": "Râmnicelu"
+    },
+    {
+        "judet": "Brăila",
+        "oras": "Surdila-Găiseanca"
+    },
+    {
+        "judet": "Brăila",
+        "oras": "Brăila"
+    },
+    {
+        "judet": "Brăila",
+        "oras": "Făurei"
+    },
+    {
+        "judet": "Brăila",
+        "oras": "Ianca"
+    },
+    {
+        "judet": "Brăila",
+        "oras": "Râmnicelu"
+    },
+    {
+        "judet": "Brăila",
+        "oras": "Surdila-Găiseanca"
+    },
+    {
+        "judet": "Bihor",
+        "oras": "Oradea"
+    },
+    {
+        "judet": "Bihor",
+        "oras": "Săcueni"
+    },
+    {
+        "judet": "Bihor",
+        "oras": "Salonta"
+    },
+    {
+        "judet": "Bihor",
+        "oras": "Marghita"
+    },
+    {
+        "judet": "Bihor",
+        "oras": "Beiuș"
+    },
+    {
+        "judet": "Bihor",
+        "oras": "Aleșd"
+    },
+    {
+        "judet": "Bihor",
+        "oras": "Valea lui Mihai"
+    },
+    {
+        "judet": "Bihor",
+        "oras": "Aleșd"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Buzău"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Râmnicu Sărat"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Nehoiu"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Pogoanele"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Pătârlagele"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Amara"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Buzești"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Merei"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Săpoca"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Țintești"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Scorțoasa"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Stâlpu"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Săgeata"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Buzău"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Râmnicu Sărat"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Nehoiu"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Pogoanele"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Pătârlagele"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Amara"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Buzești"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Merei"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Săpoca"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Țintești"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Scorțoasa"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Stâlpu"
+    },
+    {
+        "judet": "Buzău",
+        "oras": "Săgeata"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Reșița"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Moldova Nouă"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Oțelu Roșu"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Oravița"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Caransebeș"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Bocșa"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Bocșa"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Reșița"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Moldova Nouă"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Oțelu Roșu"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Oravița"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Caransebeș"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Bocșa"
+    },
+    {
+        "judet": "Călărași",
+        "oras": "Călărași"
+    },
+    {
+        "judet": "Călărași",
+        "oras": "Oltenița"
+    },
+    {
+        "judet": "Călărași",
+        "oras": "Frumușani"
+    },
+    {
+        "judet": "Călărași",
+        "oras": "Lehliu Gară"
+    },
+    {
+        "judet": "Călărași",
+        "oras": "Șoldanu"
+    },
+    {
+        "judet": "Călărași",
+        "oras": "Lehliu Gară"
+    },
+    {
+        "judet": "Călărași",
+        "oras": "Oltenița"
+    },
+    {
+        "judet": "Călărași",
+        "oras": "Călărași"
+    },
+    {
+        "judet": "Călărași",
+        "oras": "Lehliu Gară"
+    },
+    {
+        "judet": "Călărași",
+        "oras": "Oltenița"
+    },
+    {
+        "judet": "Călărași",
+        "oras": "Călărași"
+    },
+    {
+        "judet": "Călărași",
+        "oras": "Oltenița"
+    },
+    {
+        "judet": "Călărași",
+        "oras": "Frumușani"
+    },
+    {
+        "judet": "Călărași",
+        "oras": "Lehliu Gară"
+    },
+    {
+        "judet": "Călărași",
+        "oras": "Șoldanu"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Reșița"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Moldova Nouă"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Oțelu Roșu"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Oravița"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Caransebeș"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Bocșa"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Bocșa"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Reșița"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Moldova Nouă"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Oțelu Roșu"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Oravița"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Caransebeș"
+    },
+    {
+        "judet": "Caraș-Severin",
+        "oras": "Bocșa"
+    },
+    {
+        "judet": "Cluj",
+        "oras": "Cluj-Napoca"
+    },
+    {
+        "judet": "Cluj",
+        "oras": "Turda"
+    },
+    {
+        "judet": "Cluj",
+        "oras": "Dej"
+    },
+    {
+        "judet": "Cluj",
+        "oras": "Gherla"
+    },
+    {
+        "judet": "Cluj",
+        "oras": "Câmpia Turzii"
+    },
+    {
+        "judet": "Cluj",
+        "oras": "Huedin"
+    },
+    {
+        "judet": "Cluj",
+        "oras": "Turda"
+    },
+    {
+        "judet": "Cluj",
+        "oras": "Dej"
+    },
+    {
+        "judet": "Cluj",
+        "oras": "Gherla"
+    },
+    {
+        "judet": "Cluj",
+        "oras": "Câmpia Turzii"
+    },
+    {
+        "judet": "Cluj",
+        "oras": "Huedin"
+    },
+    {
+        "judet": "Constanța",
+        "oras": "Constanța"
+    },
+    {
+        "judet": "Constanța",
+        "oras": "Medgidia"
+    },
+    {
+        "judet": "Constanța",
+        "oras": "Mangalia"
+    },
+    {
+        "judet": "Constanța",
+        "oras": "Eforie"
+    },
+    {
+        "judet": "Constanța",
+        "oras": "Cernavodă"
+    },
+    {
+        "judet": "Constanța",
+        "oras": "Constanța"
+    },
+    {
+        "judet": "Constanța",
+        "oras": "Medgidia"
+    },
+    {
+        "judet": "Constanța",
+        "oras": "Mangalia"
+    },
+    {
+        "judet": "Constanța",
+        "oras": "Eforie"
+    },
+    {
+        "judet": "Constanța",
+        "oras": "Cernavodă"
+    },
+    {
+        "judet": "Covasna",
+        "oras": "Sfântu Gheorghe"
+    },
+    {
+        "judet": "Covasna",
+        "oras": "Târgu Secuiesc"
+    },
+    {
+        "judet": "Covasna",
+        "oras": "Sfântu Gheorghe"
+    },
+    {
+        "judet": "Covasna",
+        "oras": "Târgu Secuiesc"
+    },
+    {
+        "judet": "Dâmbovița",
+        "oras": "Târgoviște"
+    },
+    {
+        "judet": "Dâmbovița",
+        "oras": "Pucioasa"
+    },
+    {
+        "judet": "Dâmbovița",
+        "oras": "Fieni"
+    },
+    {
+        "judet": "Dâmbovița",
+        "oras": "Găești"
+    },
+    {
+        "judet": "Dâmbovița",
+        "oras": "Titu"
+    },
+    {
+        "judet": "Dâmbovița",
+        "oras": "Potlogi"
+    },
+    {
+        "judet": "Dâmbovița",
+        "oras": "Moreni"
+    },
+    {
+        "judet": "Dâmbovița",
+        "oras": "Urșița"
+    },
+    {
+        "judet": "Dâmbovița",
+        "oras": "Tărtășești"
+    },
+    {
+        "judet": "Dâmbovița",
+        "oras": "Pucioasa"
+    },
+    {
+        "judet": "Dâmbovița",
+        "oras": "Fieni"
+    },
+    {
+        "judet": "Dâmbovița",
+        "oras": "Găești"
+    },
+    {
+        "judet": "Dâmbovița",
+        "oras": "Titu"
+    },
+    {
+        "judet": "Dâmbovița",
+        "oras": "Potlogi"
+    },
+    {
+        "judet": "Dâmbovița",
+        "oras": "Moreni"
+    },
+    {
+        "judet": "Dâmbovița",
+        "oras": "Urșița"
+    },
+    {
+        "judet": "Dolj",
+        "oras": "Craiova"
+    },
+    {
+        "judet": "Dolj",
+        "oras": "Dăbuleni"
+    },
+    {
+        "judet": "Dolj",
+        "oras": "Calafat"
+    },
+    {
+        "judet": "Dolj",
+        "oras": "Filiași"
+    },
+    {
+        "judet": "Dolj",
+        "oras": "Băilești"
+    },
+    {
+        "judet": "Dolj",
+        "oras": "Dăbuleni"
+    },
+    {
+        "judet": "Dolj",
+        "oras": "Calafat"
+    },
+    {
+        "judet": "Dolj",
+        "oras": "Filiași"
+    },
+    {
+        "judet": "Dolj",
+        "oras": "Băilești"
+    },
+    {
+        "judet": "Galați",
+        "oras": "Galați"
+    },
+    {
+        "judet": "Galați",
+        "oras": "Tecuci"
+    },
+    {
+        "judet": "Galați",
+        "oras": "Tecuci"
+    },
+    {
+        "judet": "Galați",
+        "oras": "Galați"
+    },
+    {
+        "judet": "Giurgiu",
+        "oras": "Giurgiu"
+    },
+    {
+        "judet": "Giurgiu",
+        "oras": "Bolintin-Vale"
+    },
+    {
+        "judet": "Giurgiu",
+        "oras": "Comana"
+    },
+    {
+        "judet": "Giurgiu",
+        "oras": "Mihăilești"
+    },
+    {
+        "judet": "Giurgiu",
+        "oras": "Giurgiu"
+    },
+    {
+        "judet": "Giurgiu",
+        "oras": "Bolintin-Vale"
+    },
+    {
+        "judet": "Giurgiu",
+        "oras": "Comana"
+    },
+    {
+        "judet": "Giurgiu",
+        "oras": "Mihăilești"
+    },
+    {
+        "judet": "Gorj",
+        "oras": "Târgu Jiu"
+    },
+    {
+        "judet": "Gorj",
+        "oras": "Rovinari"
+    },
+    {
+        "judet": "Gorj",
+        "oras": "Turceni"
+    },
+    {
+        "judet": "Gorj",
+        "oras": "Tismana"
+    },
+    {
+        "judet": "Gorj",
+        "oras": "Târgu Cărbunești"
+    },
+    {
+        "judet": "Gorj",
+        "oras": "Novaci"
+    },
+    {
+        "judet": "Gorj",
+        "oras": "Țicleni"
+    },
+    {
+        "judet": "Gorj",
+        "oras": "Motru"
+    },
+    {
+        "judet": "Gorj",
+        "oras": "Peștișani"
+    },
+    {
+        "judet": "Gorj",
+        "oras": "Polovragi"
+    },
+    {
+        "judet": "Gorj",
+        "oras": "Turceni"
+    },
+    {
+        "judet": "Gorj",
+        "oras": "Tismana"
+    },
+    {
+        "judet": "Gorj",
+        "oras": "Târgu Cărbunești"
+    },
+    {
+        "judet": "Gorj",
+        "oras": "Novaci"
+    },
+    {
+        "judet": "Gorj",
+        "oras": "Țicleni"
+    },
+    {
+        "judet": "Gorj",
+        "oras": "Motru"
+    },
+    {
+        "judet": "Gorj",
+        "oras": "Peștișani"
+    },
+    {
+        "judet": "Gorj",
+        "oras": "Polovragi"
+    },
+    {
+        "judet": "Harghita",
+        "oras": "Miercurea Ciuc"
+    },
+    {
+        "judet": "Harghita",
+        "oras": "Gheorgheni"
+    },
+    {
+        "judet": "Harghita",
+        "oras": "Cristuru Secuiesc"
+    },
+    {
+        "judet": "Harghita",
+        "oras": "Băile Tușnad"
+    },
+    {
+        "judet": "Harghita",
+        "oras": "Bălan"
+    },
+    {
+        "judet": "Harghita",
+        "oras": "Miercurea Ciuc"
+    },
+    {
+        "judet": "Harghita",
+        "oras": "Gheorgheni"
+    },
+    {
+        "judet": "Harghita",
+        "oras": "Cristuru Secuiesc"
+    },
+    {
+        "judet": "Harghita",
+        "oras": "Băile Tușnad"
+    },
+    {
+        "judet": "Harghita",
+        "oras": "Bălan"
+    },
+    {
+        "judet": "Hunedoara",
+        "oras": "Deva"
+    },
+    {
+        "judet": "Hunedoara",
+        "oras": "Hunedoara"
+    },
+    {
+        "judet": "Hunedoara",
+        "oras": "Lupeni"
+    },
+    {
+        "judet": "Hunedoara",
+        "oras": "Petroșani"
+    },
+    {
+        "judet": "Hunedoara",
+        "oras": "Orăștie"
+    },
+    {
+        "judet": "Hunedoara",
+        "oras": "Vulcan"
+    },
+    {
+        "judet": "Hunedoara",
+        "oras": "Hunedoara"
+    },
+    {
+        "judet": "Hunedoara",
+        "oras": "Lupeni"
+    },
+    {
+        "judet": "Hunedoara",
+        "oras": "Petroșani"
+    },
+    {
+        "judet": "Hunedoara",
+        "oras": "Orăștie"
+    },
+    {
+        "judet": "Hunedoara",
+        "oras": "Vulcan"
+    },
+    {
+        "judet": "Ialomița",
+        "oras": "Slobozia"
+    },
+    {
+        "judet": "Ialomița",
+        "oras": "Urziceni"
+    },
+    {
+        "judet": "Ialomița",
+        "oras": "Fetești"
+    },
+    {
+        "judet": "Ialomița",
+        "oras": "Amara"
+    },
+    {
+        "judet": "Ialomița",
+        "oras": "Țăndărei"
+    },
+    {
+        "judet": "Ialomița",
+        "oras": "Căzănești"
+    },
+    {
+        "judet": "Ialomița",
+        "oras": "Căzănești"
+    },
+    {
+        "judet": "Ialomița",
+        "oras": "Slobozia"
+    },
+    {
+        "judet": "Ialomița",
+        "oras": "Urziceni"
+    },
+    {
+        "judet": "Ialomița",
+        "oras": "Fetești"
+    },
+    {
+        "judet": "Ialomița",
+        "oras": "Amara"
+    },
+    {
+        "judet": "Ialomița",
+        "oras": "Țăndărei"
+    },
+    {
+        "judet": "Iași",
+        "oras": "Iași"
+    },
+    {
+        "judet": "Iași",
+        "oras": "Pașcani"
+    },
+    {
+        "judet": "Iași",
+        "oras": "Târgu Frumos"
+    },
+    {
+        "judet": "Iași",
+        "oras": "Hârlău"
+    },
+    {
+        "judet": "Iași",
+        "oras": "Pașcani"
+    },
+    {
+        "judet": "Iași",
+        "oras": "Târgu Frumos"
+    },
+    {
+        "judet": "Iași",
+        "oras": "Hârlău"
+    },
+    {
+        "judet": "Ilfov",
+        "oras": "Voluntari"
+    },
+    {
+        "judet": "Ilfov",
+        "oras": "Pantelimon"
+    },
+    {
+        "judet": "Ilfov",
+        "oras": "Chiajna"
+    },
+    {
+        "judet": "Ilfov",
+        "oras": "Popești-Leordeni"
+    },
+    {
+        "judet": "Ilfov",
+        "oras": "Buftea"
+    },
+    {
+        "judet": "Ilfov",
+        "oras": "Pantelimon"
+    },
+    {
+        "judet": "Ilfov",
+        "oras": "Chiajna"
+    },
+    {
+        "judet": "Ilfov",
+        "oras": "Popești-Leordeni"
+    },
+    {
+        "judet": "Ilfov",
+        "oras": "Buftea"
+    },
+    {
+        "judet": "Maramureș",
+        "oras": "Baia Mare"
+    },
+    {
+        "judet": "Maramureș",
+        "oras": "Sighetu Marmației"
+    },
+    {
+        "judet": "Maramureș",
+        "oras": "Borșa"
+    },
+    {
+        "judet": "Maramureș",
+        "oras": "Vișeu de Sus"
+    },
+    {
+        "judet": "Maramureș",
+        "oras": "Baia Sprie"
+    },
+    {
+        "judet": "Maramureș",
+        "oras": "Săliștea de Sus"
+    },
+    {
+        "judet": "Maramureș",
+        "oras": "Ulmeni"
+    },
+    {
+        "judet": "Maramureș",
+        "oras": "Săpânța"
+    },
+    {
+        "judet": "Maramureș",
+        "oras": "Viseu de Sus"
+    },
+    {
+        "judet": "Maramureș",
+        "oras": "Borșa"
+    },
+    {
+        "judet": "Mehedinți",
+        "oras": "Drobeta-Turnu Severin"
+    },
+    {
+        "judet": "Mehedinți",
+        "oras": "Orșova"
+    },
+    {
+        "judet": "Mehedinți",
+        "oras": "Strehaia"
+    },
+    {
+        "judet": "Mehedinți",
+        "oras": "Drobeta-Turnu Severin"
+    },
+    {
+        "judet": "Mehedinți",
+        "oras": "Orșova"
+    },
+    {
+        "judet": "Mehedinți",
+        "oras": "Strehaia"
+    },
+    {
+        "judet": "Mureș",
+        "oras": "Târgu Mureș"
+    },
+    {
+        "judet": "Mureș",
+        "oras": "Sighișoara"
+    },
+    {
+        "judet": "Mureș",
+        "oras": "Târnăveni"
+    },
+    {
+        "judet": "Mureș",
+        "oras": "Iernut"
+    },
+    {
+        "judet": "Mureș",
+        "oras": "Luduș"
+    },
+    {
+        "judet": "Mureș",
+        "oras": "Sângeorgiu de Pădure"
+    },
+    {
+        "judet": "Mureș",
+        "oras": "Sovata"
+    },
+    {
+        "judet": "Mureș",
+        "oras": "Sărmașu"
+    },
+    {
+        "judet": "Mureș",
+        "oras": "Târgu Mureș"
+    },
+    {
+        "judet": "Mureș",
+        "oras": "Sighișoara"
+    },
+    {
+        "judet": "Mureș",
+        "oras": "Târnăveni"
+    },
+    {
+        "judet": "Mureș",
+        "oras": "Iernut"
+    },
+    {
+        "judet": "Mureș",
+        "oras": "Luduș"
+    },
+    {
+        "judet": "Mureș",
+        "oras": "Sângeorgiu de Pădure"
+    },
+    {
+        "judet": "Mureș",
+        "oras": "Sovata"
+    },
+    {
+        "judet": "Mureș",
+        "oras": "Sărmașu"
+    },
+    {
+        "judet": "Neamț",
+        "oras": "Piatra Neamț"
+    },
+    {
+        "judet": "Neamț",
+        "oras": "Roman"
+    },
+    {
+        "judet": "Neamț",
+        "oras": "Târgu Neamț"
+    },
+    {
+        "judet": "Neamț",
+        "oras": "Roznov"
+    },
+    {
+        "judet": "Neamț",
+        "oras": "Bicaz"
+    },
+    {
+        "judet": "Neamț",
+        "oras": "Roman"
+    },
+    {
+        "judet": "Neamț",
+        "oras": "Târgu Neamț"
+    },
+    {
+        "judet": "Neamț",
+        "oras": "Roznov"
+    },
+    {
+        "judet": "Neamț",
+        "oras": "Bicaz"
+    },
+    {
+        "judet": "Olt",
+        "oras": "Slatina"
+    },
+    {
+        "judet": "Olt",
+        "oras": "Caracal"
+    },
+    {
+        "judet": "Olt",
+        "oras": "Corabia"
+    },
+    {
+        "judet": "Olt",
+        "oras": "Draganesti-Olt"
+    },
+    {
+        "judet": "Olt",
+        "oras": "Balș"
+    },
+    {
+        "judet": "Olt",
+        "oras": "Scornicești"
+    },
+    {
+        "judet": "Olt",
+        "oras": "Băbeni"
+    },
+    {
+        "judet": "Olt",
+        "oras": "Piatra-Olt"
+    },
+    {
+        "judet": "Olt",
+        "oras": "Stoenești"
+    },
+    {
+        "judet": "Olt",
+        "oras": "Potcoava"
+    },
+    {
+        "judet": "Olt",
+        "oras": "Corabia"
+    },
+    {
+        "judet": "Olt",
+        "oras": "Draganesti-Olt"
+    },
+    {
+        "judet": "Olt",
+        "oras": "Balș"
+    },
+    {
+        "judet": "Olt",
+        "oras": "Scornicești"
+    },
+    {
+        "judet": "Olt",
+        "oras": "Băbeni"
+    },
+    {
+        "judet": "Olt",
+        "oras": "Piatra-Olt"
+    },
+    {
+        "judet": "Olt",
+        "oras": "Stoenești"
+    },
+    {
+        "judet": "Olt",
+        "oras": "Potcoava"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Ploiești"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Câmpina"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Sinaia"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Urlați"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Breaza"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Azuga"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Plopeni"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Sângerei"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Mizil"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Slănic"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Comarnic"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Boldești-Scăeni"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Băicoi"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Vălenii de Munte"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Ploiești"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Câmpina"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Sinaia"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Urlați"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Breaza"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Azuga"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Plopeni"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Sângerei"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Mizil"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Slănic"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Comarnic"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Boldești-Scăeni"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Băicoi"
+    },
+    {
+        "judet": "Prahova",
+        "oras": "Vălenii de Munte"
+    },
+    {
+        "judet": "Satu Mare",
+        "oras": "Satu Mare"
+    },
+    {
+        "judet": "Satu Mare",
+        "oras": "Carei"
+    },
+    {
+        "judet": "Satu Mare",
+        "oras": "Negrești-Oaș"
+    },
+    {
+        "judet": "Satu Mare",
+        "oras": "Ardud"
+    },
+    {
+        "judet": "Satu Mare",
+        "oras": "Tășnad"
+    },
+    {
+        "judet": "Satu Mare",
+        "oras": "Halmeu"
+    },
+    {
+        "judet": "Satu Mare",
+        "oras": "Păulești"
+    },
+    {
+        "judet": "Satu Mare",
+        "oras": "Carei"
+    },
+    {
+        "judet": "Satu Mare",
+        "oras": "Negrești-Oaș"
+    },
+    {
+        "judet": "Satu Mare",
+        "oras": "Ardud"
+    },
+    {
+        "judet": "Satu Mare",
+        "oras": "Tășnad"
+    },
+    {
+        "judet": "Satu Mare",
+        "oras": "Halmeu"
+    },
+    {
+        "judet": "Satu Mare",
+        "oras": "Păulești"
+    },
+    {
+        "judet": "Sălaj",
+        "oras": "Zalău"
+    },
+    {
+        "judet": "Sălaj",
+        "oras": "Jibou"
+    },
+    {
+        "judet": "Sălaj",
+        "oras": "Șimleu Silvaniei"
+    },
+    {
+        "judet": "Sălaj",
+        "oras": "Cehu Silvaniei"
+    },
+    {
+        "judet": "Sălaj",
+        "oras": "Șimleu Silvaniei"
+    },
+    {
+        "judet": "Sălaj",
+        "oras": "Cehu Silvaniei"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Sibiu"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Mediaș"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Cisnădie"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Avrig"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Turnu Roșu"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Agnita"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Ocna Sibiului"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Poplaca"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Șelimbăr"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Miercurea Sibiului"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Tălmaciu"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Mediaș"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Cisnădie"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Avrig"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Turnu Roșu"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Agnita"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Ocna Sibiului"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Poplaca"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Șelimbăr"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Miercurea Sibiului"
+    },
+    {
+        "judet": "Sibiu",
+        "oras": "Tălmaciu"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Suceava"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Fălticeni"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Rădăuți"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Câmpulung Moldovenesc"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Gura Humorului"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Solca"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Vatra Dornei"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Salcea"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Vicovu de Sus"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Frumoasa"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Șcheia"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Dolhasca"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Dolhasca"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Suceava"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Fălticeni"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Rădăuți"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Câmpulung Moldovenesc"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Gura Humorului"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Solca"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Vatra Dornei"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Salcea"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Vicovu de Sus"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Frumoasa"
+    },
+    {
+        "judet": "Suceava",
+        "oras": "Șcheia"
+    },
+    {
+        "judet": "Teleorman",
+        "oras": "Alexandria"
+    },
+    {
+        "judet": "Teleorman",
+        "oras": "Roșiorii de Vede"
+    },
+    {
+        "judet": "Teleorman",
+        "oras": "Turnu Măgurele"
+    },
+    {
+        "judet": "Teleorman",
+        "oras": "Zimnicea"
+    },
+    {
+        "judet": "Teleorman",
+        "oras": "Fetești"
+    },
+    {
+        "judet": "Teleorman",
+        "oras": "Alexandria"
+    },
+    {
+        "judet": "Teleorman",
+        "oras": "Roșiorii de Vede"
+    },
+    {
+        "judet": "Teleorman",
+        "oras": "Turnu Măgurele"
+    },
+    {
+        "judet": "Teleorman",
+        "oras": "Zimnicea"
+    },
+    {
+        "judet": "Teleorman",
+        "oras": "Fetești"
+    },
+    {
+        "judet": "Timiș",
+        "oras": "Timișoara"
+    },
+    {
+        "judet": "Timiș",
+        "oras": "Lugoj"
+    },
+    {
+        "judet": "Timiș",
+        "oras": "Jimbolia"
+    },
+    {
+        "judet": "Timiș",
+        "oras": "Deta"
+    },
+    {
+        "judet": "Timiș",
+        "oras": "Făget"
+    },
+    {
+        "judet": "Timiș",
+        "oras": "Gătaia"
+    },
+    {
+        "judet": "Timiș",
+        "oras": "Buziaș"
+    },
+    {
+        "judet": "Timiș",
+        "oras": "Recas"
+    },
+    {
+        "judet": "Timiș",
+        "oras": "Sânnicolau Mare"
+    },
+    {
+        "judet": "Timiș",
+        "oras": "Timișoara"
+    },
+    {
+        "judet": "Timiș",
+        "oras": "Lugoj"
+    },
+    {
+        "judet": "Timiș",
+        "oras": "Jimbolia"
+    },
+    {
+        "judet": "Timiș",
+        "oras": "Deta"
+    },
+    {
+        "judet": "Timiș",
+        "oras": "Făget"
+    },
+    {
+        "judet": "Timiș",
+        "oras": "Gătaia"
+    },
+    {
+        "judet": "Timiș",
+        "oras": "Buziaș"
+    },
+    {
+        "judet": "Timiș",
+        "oras": "Recas"
+    },
+    {
+        "judet": "Timiș",
+        "oras": "Sânnicolau Mare"
+    },
+    {
+        "judet": "Tulcea",
+        "oras": "Tulcea"
+    },
+    {
+        "judet": "Tulcea",
+        "oras": "Babadag"
+    },
+    {
+        "judet": "Tulcea",
+        "oras": "Macin"
+    },
+    {
+        "judet": "Tulcea",
+        "oras": "Sulina"
+    },
+    {
+        "judet": "Tulcea",
+        "oras": "Isaccea"
+    },
+    {
+        "judet": "Tulcea",
+        "oras": "Măcin"
+    },
+    {
+        "judet": "Tulcea",
+        "oras": "Tulcea"
+    },
+    {
+        "judet": "Tulcea",
+        "oras": "Babadag"
+    },
+    {
+        "judet": "Tulcea",
+        "oras": "Macin"
+    },
+    {
+        "judet": "Tulcea",
+        "oras": "Sulina"
+    },
+    {
+        "judet": "Tulcea",
+        "oras": "Isaccea"
+    },
+    {
+        "judet": "Tulcea",
+        "oras": "Măcin"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Râmnicu Vâlcea"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Drăgășani"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Băbeni"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Călimănești"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Horezu"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Brezoi"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Băile Olănești"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Ocnele Mari"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Berbești"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Roșiorii de Vede"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Drăgășani"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Băbeni"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Călimănești"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Horezu"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Brezoi"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Băile Olănești"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Ocnele Mari"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Berbești"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Râmnicu Vâlcea"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Drăgășani"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Băbeni"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Călimănești"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Horezu"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Brezoi"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Băile Olănești"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Ocnele Mari"
+    },
+    {
+        "judet": "Vâlcea",
+        "oras": "Berbești"
+    },
+    {
+        "judet": "Vrancea",
+        "oras": "Focșani"
+    },
+    {
+        "judet": "Vrancea",
+        "oras": "Adjud"
+    },
+    {
+        "judet": "Vrancea",
+        "oras": "Odobești"
+    },
+    {
+        "judet": "Vrancea",
+        "oras": "Panciu"
+    },
+    {
+        "judet": "Vrancea",
+        "oras": "Mărășești"
+    },
+    {
+        "judet": "Vrancea",
+        "oras": "Vânători"
+    },
+    {
+        "judet": "Vrancea",
+        "oras": "Gologanu"
+    },
+    {
+        "judet": "Vrancea",
+        "oras": "Focșani"
+    },
+    {
+        "judet": "Vrancea",
+        "oras": "Adjud"
+    },
+    {
+        "judet": "Vrancea",
+        "oras": "Odobești"
+    },
+    {
+        "judet": "Vrancea",
+        "oras": "Panciu"
+    },
+    {
+        "judet": "Vrancea",
+        "oras": "Mărășești"
+    },
+    {
+        "judet": "Vrancea",
+        "oras": "Vânători"
+    },
+    {
+        "judet": "Vrancea",
+        "oras": "Gologanu"
+    }
+]

@@ -1,0 +1,24 @@
+.mediaContainer {
+  display: flex;
+  /* align-items: center; */
+  justify-content: flex-end;
+  /* Adaugă justify-content: flex-end pentru a alinia elementele în partea dreaptă */
+}
+
+.mediaImage {
+  margin-right: auto;
+  /* Modificare: Folosește margin-left în loc de margin-right */
+
+}
+
+.mediaBody {
+  /* align-self: flex-end; */
+  text-align: left;
+  /* Adaugă text-align: right pentru a alinia textul la dreapta */
+  flex-grow: 1;
+}
+
+.listGroupItem {
+  margin-bottom: 25px;
+  border-bottom: none;
+}

@@ -1,0 +1,535 @@
+judet,oras
+Alba,Alba Iulia
+Alba,Abrud
+Alba,Aiud
+Alba,Baia de Arieș
+Alba,Blaj
+Alba,Câmpeni
+Alba,Cugir
+Alba,Ocna Mureș
+Alba,Teiuș
+Arad,Arad
+Arad,Aradu Nou
+Arad,Chișineu-Criș
+Arad,Curtici
+Arad,Ineu
+Arad,Lipova
+Arad,Nădlac
+Arad,Pâncota
+Arad,Pecica
+Arad,Sântana
+Arad,Sebiș
+Arad,Sebiș
+Argeș,Pitești
+Argeș,Câmpulung
+Argeș,Mioveni
+Argeș,Ștefănești
+Argeș,Costea
+Argeș,Budeasa
+Argeș,Rucăr
+Argeș,Călinești
+Argeș,Călinești
+Bacău,Bacău
+Bacău,Moinești
+Bacău,Buhuși
+Bacău,Comănești
+Bacău,Onești
+Bacău,Măgura
+Bacău,Podu Turcului
+Bacău,Târgu Ocna
+Bacău,Bernești
+Bacău,Bernești
+Bihor,Oradea
+Bihor,Săcueni
+Bihor,Salonta
+Bihor,Marghita
+Bihor,Beiuș
+Bihor,Aleșd
+Bihor,Valea lui Mihai
+Bihor,Aleșd
+Bistrița-Năsăud,Bistrița
+Bistrița-Năsăud,Sângeorz-Băi
+Bistrița-Năsăud,Năsăud
+Bistrița-Năsăud,Beclean
+Bistrița-Năsăud,Bistrița-Bârgăului
+Bistrița-Năsăud,Bistrița-Bârgăului
+Bistrița-Năsăud,Bistrița-Bârgăului
+Bistrița-Năsăud,Bistrița-Bârgăului
+Bistrița-Năsăud,Bistrița-Bârgăului
+Botoșani,Botoșani
+Botoșani,Dorohoi
+Botoșani,Săveni
+Botoșani,Flămânzi
+Botoșani,Dorohoi
+Botoșani,Flămânzi
+Botoșani,Dorohoi
+Botoșani,Flămânzi
+Botoșani,Dorohoi
+Botoșani,Flămânzi
+Brăila,Brăila
+Brăila,Făurei
+Brăila,Ianca
+Brăila,Râmnicelu
+Brăila,Surdila-Găiseanca
+Brăila,Brăila
+Brăila,Făurei
+Brăila,Ianca
+Brăila,Râmnicelu
+Brăila,Surdila-Găiseanca
+Brașov,Brașov
+Brașov,Săcele
+Brașov,Făgăraș
+Brașov,Râșnov
+Brașov,Zărnești
+Brașov,Codlea
+Brașov,Ghimbav
+Brașov,Rupea
+Brașov,Sânpetru
+Brașov,Săcele
+Brăila,Brăila
+Brăila,Făurei
+Brăila,Ianca
+Brăila,Râmnicelu
+Brăila,Surdila-Găiseanca
+Brăila,Brăila
+Brăila,Făurei
+Brăila,Ianca
+Brăila,Râmnicelu
+Brăila,Surdila-Găiseanca
+Bihor,Oradea
+Bihor,Săcueni
+Bihor,Salonta
+Bihor,Marghita
+Bihor,Beiuș
+Bihor,Aleșd
+Bihor,Valea lui Mihai
+Bihor,Aleșd
+Buzău,Buzău
+Buzău,Râmnicu Sărat
+Buzău,Nehoiu
+Buzău,Pogoanele
+Buzău,Pătârlagele
+Buzău,Amara
+Buzău,Buzești
+Buzău,Merei
+Buzău,Săpoca
+Buzău,Țintești
+Buzău,Scorțoasa
+Buzău,Stâlpu
+Buzău,Săgeata
+Buzău,Buzău
+Buzău,Râmnicu Sărat
+Buzău,Nehoiu
+Buzău,Pogoanele
+Buzău,Pătârlagele
+Buzău,Amara
+Buzău,Buzești
+Buzău,Merei
+Buzău,Săpoca
+Buzău,Țintești
+Buzău,Scorțoasa
+Buzău,Stâlpu
+Buzău,Săgeata
+Caraș-Severin,Reșița
+Caraș-Severin,Moldova Nouă
+Caraș-Severin,Oțelu Roșu
+Caraș-Severin,Oravița
+Caraș-Severin,Caransebeș
+Caraș-Severin,Bocșa
+Caraș-Severin,Bocșa
+Caraș-Severin,Reșița
+Caraș-Severin,Moldova Nouă
+Caraș-Severin,Oțelu Roșu
+Caraș-Severin,Oravița
+Caraș-Severin,Caransebeș
+Caraș-Severin,Bocșa
+Călărași,Călărași
+Călărași,Oltenița
+Călărași,Frumușani
+Călărași,Lehliu Gară
+Călărași,Șoldanu
+Călărași,Lehliu Gară
+Călărași,Oltenița
+Călărași,Călărași
+Călărași,Lehliu Gară
+Călărași,Oltenița
+Călărași,Călărași
+Călărași,Oltenița
+Călărași,Frumușani
+Călărași,Lehliu Gară
+Călărași,Șoldanu
+Caraș-Severin,Reșița
+Caraș-Severin,Moldova Nouă
+Caraș-Severin,Oțelu Roșu
+Caraș-Severin,Oravița
+Caraș-Severin,Caransebeș
+Caraș-Severin,Bocșa
+Caraș-Severin,Bocșa
+Caraș-Severin,Reșița
+Caraș-Severin,Moldova Nouă
+Caraș-Severin,Oțelu Roșu
+Caraș-Severin,Oravița
+Caraș-Severin,Caransebeș
+Caraș-Severin,Bocșa
+Cluj,Cluj-Napoca
+Cluj,Turda
+Cluj,Dej
+Cluj,Gherla
+Cluj,Câmpia Turzii
+Cluj,Huedin
+Cluj,Turda
+Cluj,Dej
+Cluj,Gherla
+Cluj,Câmpia Turzii
+Cluj,Huedin
+Constanța,Constanța
+Constanța,Medgidia
+Constanța,Mangalia
+Constanța,Eforie
+Constanța,Cernavodă
+Constanța,Constanța
+Constanța,Medgidia
+Constanța,Mangalia
+Constanța,Eforie
+Constanța,Cernavodă
+Covasna,Sfântu Gheorghe
+Covasna,Târgu Secuiesc
+Covasna,Sfântu Gheorghe
+Covasna,Târgu Secuiesc
+Dâmbovița,Târgoviște
+Dâmbovița,Pucioasa
+Dâmbovița,Fieni
+Dâmbovița,Găești
+Dâmbovița,Titu
+Dâmbovița,Potlogi
+Dâmbovița,Moreni
+Dâmbovița,Urșița
+Dâmbovița,Tărtășești
+Dâmbovița,Pucioasa
+Dâmbovița,Fieni
+Dâmbovița,Găești
+Dâmbovița,Titu
+Dâmbovița,Potlogi
+Dâmbovița,Moreni
+Dâmbovița,Urșița
+Dolj,Craiova
+Dolj,Dăbuleni
+Dolj,Calafat
+Dolj,Filiași
+Dolj,Băilești
+Dolj,Dăbuleni
+Dolj,Calafat
+Dolj,Filiași
+Dolj,Băilești
+Galați,Galați
+Galați,Tecuci
+Galați,Tecuci
+Galați,Galați
+Giurgiu,Giurgiu
+Giurgiu,Bolintin-Vale
+Giurgiu,Comana
+Giurgiu,Mihăilești
+Giurgiu,Giurgiu
+Giurgiu,Bolintin-Vale
+Giurgiu,Comana
+Giurgiu,Mihăilești
+Gorj,Târgu Jiu
+Gorj,Rovinari
+Gorj,Turceni
+Gorj,Tismana
+Gorj,Târgu Cărbunești
+Gorj,Novaci
+Gorj,Țicleni
+Gorj,Motru
+Gorj,Peștișani
+Gorj,Polovragi
+Gorj,Turceni
+Gorj,Tismana
+Gorj,Târgu Cărbunești
+Gorj,Novaci
+Gorj,Țicleni
+Gorj,Motru
+Gorj,Peștișani
+Gorj,Polovragi
+Harghita,Miercurea Ciuc
+Harghita,Gheorgheni
+Harghita,Cristuru Secuiesc
+Harghita,Băile Tușnad
+Harghita,Bălan
+Harghita,Miercurea Ciuc
+Harghita,Gheorgheni
+Harghita,Cristuru Secuiesc
+Harghita,Băile Tușnad
+Harghita,Bălan
+Hunedoara,Deva
+Hunedoara,Hunedoara
+Hunedoara,Lupeni
+Hunedoara,Petroșani
+Hunedoara,Orăștie
+Hunedoara,Vulcan
+Hunedoara,Hunedoara
+Hunedoara,Lupeni
+Hunedoara,Petroșani
+Hunedoara,Orăștie
+Hunedoara,Vulcan
+Ialomița,Slobozia
+Ialomița,Urziceni
+Ialomița,Fetești
+Ialomița,Amara
+Ialomița,Țăndărei
+Ialomița,Căzănești
+Ialomița,Căzănești
+Ialomița,Slobozia
+Ialomița,Urziceni
+Ialomița,Fetești
+Ialomița,Amara
+Ialomița,Țăndărei
+Iași,Iași
+Iași,Pașcani
+Iași,Târgu Frumos
+Iași,Hârlău
+Iași,Pașcani
+Iași,Târgu Frumos
+Iași,Hârlău
+Ilfov,Voluntari
+Ilfov,Pantelimon
+Ilfov,Chiajna
+Ilfov,Popești-Leordeni
+Ilfov,Buftea
+Ilfov,Pantelimon
+Ilfov,Chiajna
+Ilfov,Popești-Leordeni
+Ilfov,Buftea
+Maramureș,Baia Mare
+Maramureș,Sighetu Marmației
+Maramureș,Borșa
+Maramureș,Vișeu de Sus
+Maramureș,Baia Sprie
+Maramureș,Săliștea de Sus
+Maramureș,Ulmeni
+Maramureș,Săpânța
+Maramureș,Viseu de Sus
+Maramureș,Borșa
+Mehedinți,Drobeta-Turnu Severin
+Mehedinți,Orșova
+Mehedinți,Strehaia
+Mehedinți,Drobeta-Turnu Severin
+Mehedinți,Orșova
+Mehedinți,Strehaia
+Mureș,Târgu Mureș
+Mureș,Sighișoara
+Mureș,Târnăveni
+Mureș,Iernut
+Mureș,Luduș
+Mureș,Sângeorgiu de Pădure
+Mureș,Sovata
+Mureș,Sărmașu
+Mureș,Târgu Mureș
+Mureș,Sighișoara
+Mureș,Târnăveni
+Mureș,Iernut
+Mureș,Luduș
+Mureș,Sângeorgiu de Pădure
+Mureș,Sovata
+Mureș,Sărmașu
+Neamț,Piatra Neamț
+Neamț,Roman
+Neamț,Târgu Neamț
+Neamț,Roznov
+Neamț,Bicaz
+Neamț,Roman
+Neamț,Târgu Neamț
+Neamț,Roznov
+Neamț,Bicaz
+Olt,Slatina
+Olt,Caracal
+Olt,Corabia
+Olt,Draganesti-Olt
+Olt,Balș
+Olt,Scornicești
+Olt,Băbeni
+Olt,Piatra-Olt
+Olt,Stoenești
+Olt,Potcoava
+Olt,Corabia
+Olt,Draganesti-Olt
+Olt,Balș
+Olt,Scornicești
+Olt,Băbeni
+Olt,Piatra-Olt
+Olt,Stoenești
+Olt,Potcoava
+Prahova,Ploiești
+Prahova,Câmpina
+Prahova,Sinaia
+Prahova,Urlați
+Prahova,Breaza
+Prahova,Azuga
+Prahova,Plopeni
+Prahova,Sângerei
+Prahova,Mizil
+Prahova,Slănic
+Prahova,Comarnic
+Prahova,Boldești-Scăeni
+Prahova,Băicoi
+Prahova,Vălenii de Munte
+Prahova,Ploiești
+Prahova,Câmpina
+Prahova,Sinaia
+Prahova,Urlați
+Prahova,Breaza
+Prahova,Azuga
+Prahova,Plopeni
+Prahova,Sângerei
+Prahova,Mizil
+Prahova,Slănic
+Prahova,Comarnic
+Prahova,Boldești-Scăeni
+Prahova,Băicoi
+Prahova,Vălenii de Munte
+Satu Mare,Satu Mare
+Satu Mare,Carei
+Satu Mare,Negrești-Oaș
+Satu Mare,Ardud
+Satu Mare,Tășnad
+Satu Mare,Halmeu
+Satu Mare,Păulești
+Satu Mare,Carei
+Satu Mare,Negrești-Oaș
+Satu Mare,Ardud
+Satu Mare,Tășnad
+Satu Mare,Halmeu
+Satu Mare,Păulești
+Sălaj,Zalău
+Sălaj,Jibou
+Sălaj,Șimleu Silvaniei
+Sălaj,Cehu Silvaniei
+Sălaj,Șimleu Silvaniei
+Sălaj,Cehu Silvaniei
+Sibiu,Sibiu
+Sibiu,Mediaș
+Sibiu,Cisnădie
+Sibiu,Avrig
+Sibiu,Turnu Roșu
+Sibiu,Agnita
+Sibiu,Ocna Sibiului
+Sibiu,Poplaca
+Sibiu,Șelimbăr
+Sibiu,Miercurea Sibiului
+Sibiu,Tălmaciu
+Sibiu,Mediaș
+Sibiu,Cisnădie
+Sibiu,Avrig
+Sibiu,Turnu Roșu
+Sibiu,Agnita
+Sibiu,Ocna Sibiului
+Sibiu,Poplaca
+Sibiu,Șelimbăr
+Sibiu,Miercurea Sibiului
+Sibiu,Tălmaciu
+Suceava,Suceava
+Suceava,Fălticeni
+Suceava,Rădăuți
+Suceava,Câmpulung Moldovenesc
+Suceava,Gura Humorului
+Suceava,Solca
+Suceava,Vatra Dornei
+Suceava,Salcea
+Suceava,Vicovu de Sus
+Suceava,Frumoasa
+Suceava,Șcheia
+Suceava,Dolhasca
+Suceava,Dolhasca
+Suceava,Suceava
+Suceava,Fălticeni
+Suceava,Rădăuți
+Suceava,Câmpulung Moldovenesc
+Suceava,Gura Humorului
+Suceava,Solca
+Suceava,Vatra Dornei
+Suceava,Salcea
+Suceava,Vicovu de Sus
+Suceava,Frumoasa
+Suceava,Șcheia
+Teleorman,Alexandria
+Teleorman,Roșiorii de Vede
+Teleorman,Turnu Măgurele
+Teleorman,Zimnicea
+Teleorman,Fetești
+Teleorman,Alexandria
+Teleorman,Roșiorii de Vede
+Teleorman,Turnu Măgurele
+Teleorman,Zimnicea
+Teleorman,Fetești
+Timiș,Timișoara
+Timiș,Lugoj
+Timiș,Jimbolia
+Timiș,Deta
+Timiș,Făget
+Timiș,Gătaia
+Timiș,Buziaș
+Timiș,Recas
+Timiș,Sânnicolau Mare
+Timiș,Timișoara
+Timiș,Lugoj
+Timiș,Jimbolia
+Timiș,Deta
+Timiș,Făget
+Timiș,Gătaia
+Timiș,Buziaș
+Timiș,Recas
+Timiș,Sânnicolau Mare
+Tulcea,Tulcea
+Tulcea,Babadag
+Tulcea,Macin
+Tulcea,Sulina
+Tulcea,Isaccea
+Tulcea,Măcin
+Tulcea,Tulcea
+Tulcea,Babadag
+Tulcea,Macin
+Tulcea,Sulina
+Tulcea,Isaccea
+Tulcea,Măcin
+Vâlcea,Râmnicu Vâlcea
+Vâlcea,Drăgășani
+Vâlcea,Băbeni
+Vâlcea,Călimănești
+Vâlcea,Horezu
+Vâlcea,Brezoi
+Vâlcea,Băile Olănești
+Vâlcea,Ocnele Mari
+Vâlcea,Berbești
+Vâlcea,Roșiorii de Vede
+Vâlcea,Drăgășani
+Vâlcea,Băbeni
+Vâlcea,Călimănești
+Vâlcea,Horezu
+Vâlcea,Brezoi
+Vâlcea,Băile Olănești
+Vâlcea,Ocnele Mari
+Vâlcea,Berbești
+Vâlcea,Roșiorii de Vede
+Vaslui,Vaslui
+Vaslui,Bârlad
+Vaslui,Huși
+Vaslui,Negrești
+Vaslui,Murgeni
+Vaslui,Bârlad
+Vaslui,Huși
+Vaslui,Negrești
+Vaslui,Murgeni
+Vrancea,Focșani
+Vrancea,Adjud
+Vrancea,Odobești
+Vrancea,Panciu
+Vrancea,Mărășești
+Vrancea,Vânători
+Vrancea,Gologanu
+Vrancea,Focșani
+Vrancea,Adjud
+Vrancea,Odobești
+Vrancea,Panciu
+Vrancea,Mărășești
+Vrancea,Vânători
+Vrancea,Gologanu

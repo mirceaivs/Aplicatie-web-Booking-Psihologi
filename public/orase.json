@@ -1,0 +1,434 @@
+[
+    {
+        "oras": "Alba Iulia"
+    },
+    {
+        "oras": "Abrud"
+    },
+    {
+        "oras": "Aiud"
+    },
+    {
+        "oras": "Baia de Arieș"
+    },
+    {
+        "oras": "Blaj"
+    },
+    {
+        "oras": "Câmpeni"
+    },
+    {
+        "oras": "Cugir"
+    },
+    {
+        "oras": "Ocna Mureș"
+    },
+    {
+        "oras": "Teiuș"
+    },
+    {
+        "oras": "Arad"
+    },
+    {
+        "oras": "Aradu Nou"
+    },
+    {
+        "oras": "Chișineu-Criș"
+    },
+    {
+        "oras": "Curtici"
+    },
+    {
+        "oras": "Ineu"
+    },
+    {
+        "oras": "Lipova"
+    },
+    {
+        "oras": "Nădlac"
+    },
+    {
+        "oras": "Pâncota"
+    },
+    {
+        "oras": "Pecica"
+    },
+    {
+        "oras": "Sântana"
+    },
+    {
+        "oras": "Sebiș"
+    },
+    {
+        "oras": "Pitești"
+    },
+    {
+        "oras": "Câmpulung"
+    },
+    {
+        "oras": "Mioveni"
+    },
+    {
+        "oras": "Ștefănești"
+    },
+    {
+        "oras": "Costea"
+    },
+    {
+        "oras": "Budeasa"
+    },
+    {
+        "oras": "Rucăr"
+    },
+    {
+        "oras": "Călinești"
+    },
+    {
+        "oras": "Bacău"
+    },
+    {
+        "oras": "Moinești"
+    },
+    {
+        "oras": "Buhuși"
+    },
+    {
+        "oras": "Comănești"
+    },
+    {
+        "oras": "Onești"
+    },
+    {
+        "oras": "Măgura"
+    },
+    {
+        "oras": "Podu Turcului"
+    },
+    {
+        "oras": "Târgu Ocna"
+    },
+    {
+        "oras": "Bernești"
+    },
+    {
+        "oras": "Oradea"
+    },
+    {
+        "oras": "Săcueni"
+    },
+    {
+        "oras": "Salonta"
+    },
+    {
+        "oras": "Marghita"
+    },
+    {
+        "oras": "Beiuș"
+    },
+    {
+        "oras": "Aleșd"
+    },
+    {
+        "oras": "Valea lui Mihai"
+    },
+    {
+        "oras": "Bistrița"
+    },
+    {
+        "oras": "Sângeorz-Băi"
+    },
+    {
+        "oras": "Năsăud"
+    },
+    {
+        "oras": "Beclean"
+    },
+    {
+        "oras": "Botoșani"
+    },
+    {
+        "oras": "Dorohoi"
+    },
+    {
+        "oras": "Săveni"
+    },
+    {
+        "oras": "Flămânzi"
+    },
+    {
+        "oras": "Brăila"
+    },
+    {
+        "oras": "Făurei"
+    },
+    {
+        "oras": "Ianca"
+    },
+    {
+        "oras": "Râmnicelu"
+    },
+    {
+        "oras": "Surdila-Găiseanca"
+    },
+    {
+        "oras": "Brașov"
+    },
+    {
+        "oras": "Săcele"
+    },
+    {
+        "oras": "Făgăraș"
+    },
+    {
+        "oras": "Râșnov"
+    },
+    {
+        "oras": "Zărnești"
+    },
+    {
+        "oras": "Codlea"
+    },
+    {
+        "oras": "Ghimbav"
+    },
+    {
+        "oras": "Rupea"
+    },
+    {
+        "oras": "Sânpetru"
+    },
+    {
+        "oras": "Ploiești"
+    },
+    {
+        "oras": "Câmpina"
+    },
+    {
+        "oras": "Sinaia"
+    },
+    {
+        "oras": "Urlați"
+    },
+    {
+        "oras": "Breaza"
+    },
+    {
+        "oras": "Azuga"
+    },
+    {
+        "oras": "Plopeni"
+    },
+    {
+        "oras": "Sângerei"
+    },
+    {
+        "oras": "Mizil"
+    },
+    {
+        "oras": "Slănic"
+    },
+    {
+        "oras": "Comarnic"
+    },
+    {
+        "oras": "Boldești-Scăeni"
+    },
+    {
+        "oras": "Băicoi"
+    },
+    {
+        "oras": "Vălenii de Munte"
+    },
+    {
+        "oras": "Satu Mare"
+    },
+    {
+        "oras": "Carei"
+    },
+    {
+        "oras": "Negrești-Oaș"
+    },
+    {
+        "oras": "Ardud"
+    },
+    {
+        "oras": "Tășnad"
+    },
+    {
+        "oras": "Halmeu"
+    },
+    {
+        "oras": "Păulești"
+    },
+    {
+        "oras": "Sălaj"
+    },
+    {
+        "oras": "Jibou"
+    },
+    {
+        "oras": "Șimleu Silvaniei"
+    },
+    {
+        "oras": "Cehu Silvaniei"
+    },
+    {
+        "oras": "Sibiu"
+    },
+    {
+        "oras": "Mediaș"
+    },
+    {
+        "oras": "Cisnădie"
+    },
+    {
+        "oras": "Avrig"
+    },
+    {
+        "oras": "Turnu Roșu"
+    },
+    {
+        "oras": "Agnita"
+    },
+    {
+        "oras": "Ocna Sibiului"
+    },
+    {
+        "oras": "Poplaca"
+    },
+    {
+        "oras": "Șelimbăr"
+    },
+    {
+        "oras": "Miercurea Sibiului"
+    },
+    {
+        "oras": "Tălmaciu"
+    },
+    {
+        "oras": "Suceava"
+    },
+    {
+        "oras": "Fălticeni"
+    },
+    {
+        "oras": "Rădăuți"
+    },
+    {
+        "oras": "Câmpulung Moldovenesc"
+    },
+    {
+        "oras": "Gura Humorului"
+    },
+    {
+        "oras": "Solca"
+    },
+    {
+        "oras": "Vatra Dornei"
+    },
+    {
+        "oras": "Salcea"
+    },
+    {
+        "oras": "Vicovu de Sus"
+    },
+    {
+        "oras": "Frumoasa"
+    },
+    {
+        "oras": "Șcheia"
+    },
+    {
+        "oras": "Teleorman"
+    },
+    {
+        "oras": "Alexandria"
+    },
+    {
+        "oras": "Roșiorii de Vede"
+    },
+    {
+        "oras": "Turnu Măgurele"
+    },
+    {
+        "oras": "Zimnicea"
+    },
+    {
+        "oras": "Fetești"
+    },
+    {
+        "oras": "Timișoara"
+    },
+    {
+        "oras": "Lugoj"
+    },
+    {
+        "oras": "Jimbolia"
+    },
+    {
+        "oras": "Deta"
+    },
+    {
+        "oras": "Făget"
+    },
+    {
+        "oras": "Gătaia"
+    },
+    {
+        "oras": "Buziaș"
+    },
+    {
+        "oras": "Recas"
+    },
+    {
+        "oras": "Sânnicolau Mare"
+    },
+    {
+        "oras": "Tulcea"
+    },
+    {
+        "oras": "Babadag"
+    },
+    {
+        "oras": "Macin"
+    },
+    {
+        "oras": "Sulina"
+    },
+    {
+        "oras": "Isaccea"
+    },
+    {
+        "oras": "Măcin"
+    },
+    {
+        "oras": "Vâlcea"
+    },
+    {
+        "oras": "Râmnicu Vâlcea"
+    },
+    {
+        "oras": "Drăgășani"
+    },
+    {
+        "oras": "Băbeni"
+    },
+    {
+        "oras": "Călimănești"
+    },
+    {
+        "oras": "Horezu"
+    },
+    {
+        "oras": "Brezoi"
+    },
+    {
+        "oras": "Băile Olănești"
+    },
+    {
+        "oras": "Ocnele Mari"
+    },
+    {
+        "oras": "Berbești"
+    }
+]
