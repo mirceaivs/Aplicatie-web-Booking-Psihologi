@@ -1,0 +1,31 @@
+version: '3.7'
+services:
+  app-server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: base
+    volumes:
+      - ../../:/app
+    ports:
+      - 3000:3000
+    command: npm run dev
+  mysql_server:
+    image: licenta_db:latest
+    environment:
+      - MYSQL_DATABASE = licenta\
+      - MYSQL_USER = root\
+      - MYSQL_PASSWORD = root\
+      - MYSQL_ROOT_PASSWORD=root
+    ports:
+      - 3307:3306
+    #de incercat commands:!!!si cautat nodemon docker implementation
+    # app:
+    #   image: licenta_server:latest
+    #   ports:
+    #     - 3000:3000
+    #   volumes:
+    #     - ../../:/app
+    #   depends_on:
+    #     - mysql_server
+
