@@ -9,7 +9,7 @@ export const sequelize = new Sequelize({
   username: 'root',
   password: 'root',
   database: 'mydb',
-  port: 3307,
+  port: 3306,
 });
 
 //docker
