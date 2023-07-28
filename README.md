@@ -10,8 +10,9 @@ Aplicația de Booking Psihologi facilitează rezervarea de ședințe cu psiholog
 
 ## Tehnologii
 
-- Backend: Node.js cu TypeScript
-- Frontend: React cu Vite și TypeScript
+- Backend: Node.js, Express.js, TypeScript
+- Frontend: React cu Vite, Bootstrap, TypeScript
+- Stocarea datelor: MySQL
 
 ## Caracteristici Cheie
 
@@ -26,27 +27,21 @@ Aplicația de Booking Psihologi facilitează rezervarea de ședințe cu psiholog
 
 Pentru a instala și rula aplicația local, urmați pașii de mai jos:
 
-1. Clonează acest repository folosind `git clone https://github.com/utilizator/nume-repo.git`
-2. Navighează în directorul proiectului: `cd nume-repo`
+1. Clonează acest repository folosind `git clone https://github.com/mirceaivs/Aplicatie-web-Booking-Psihologi.git`
+2. Navigheaza in branch-ul unde este backend-ul `git checkout backend`
 3. Instalează dependințele: `npm install`
-4. Rulează aplicația în modul dezvoltare: `npm run dev`
+4. Importeaza baza de date folosind fisierele .sql din folder-ul Baza de date
+5. Ruleaza REST API-ul: `npm start`
+6. Navigheaza in branch-ul unde este frontend-ul `git checkout frontend`
+7. Instaleaza dependintele: `npm install`
+8. Ruleaza frontend-ul folosind: `npm run dev`
 
-## Contribuții
-
-Contribuțiile sunt binevenite! Pentru a contribui, vă rugăm să deschideți un issue și să trimiteți un pull request.
-
-## Licență
-
-Acest proiect este licențiat sub [MIT License](link-license).
 
 ## Contact
 
-Pentru întrebări sau clarificări, vă rugăm să ne contactați la adresa [email@example.com](mailto:email@example.com).
+Pentru întrebări sau clarificări, vă rugăm sa ma contactati la adresa [mircea.ivascu17@gmail.com](mailto:mircea.ivascu17@gmail.com).
 
 ## Disclaimer
 
-Aceasta este o aplicație fictivă creată în scop educațional. Numele și datele prezentate sunt fictive și nu reprezintă o aplicație sau serviciu real.
+Aceasta este o aplicație fictiva creata in scop educational. Numele și datele prezentate sunt fictive si nu reprezinta o aplicatie sau serviciu real.
 
-**Notă**: Asigurați-vă că actualizați secțiunile "Cerințe de Instalare și Rulare", "Licență", "Contact", "Disclaimer" și alte detalii pentru a se potrivi cu detaliile și caracteristicile specifice ale aplicației tale.
-
-Asigură-te că README-ul tău oferă o descriere concisă și coerentă a aplicației tale, astfel încât potențialii utilizatori să înțeleagă ușor scopul și funcționalitățile acesteia.
