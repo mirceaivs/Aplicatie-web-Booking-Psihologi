@@ -39,6 +39,7 @@ Pentru a instala și rula aplicația local, urmați pașii de mai jos:
 9. TESTARE: Cautarea unui psiholog:
     - dupa nume: `nume`, `iulian`
     - dupa locatie: judet: `constanta`, localitate: `mangalia`
+    - dupa specializare: `muncii`
     
 
 ## Contact
