@@ -16,12 +16,13 @@ Aplicația de Booking Psihologi facilitează rezervarea de ședințe cu psiholog
 
 ## Caracteristici Cheie
 
-- Căutare și vizualizare profiluri psihologi
-- Rezervare de ședințe cu psihologi
-- Confirmare automată a programărilor
-- Integrare cu calendare pentru gestionarea programărilor
-- Administrare și actualizare a profilurilor psihologilor
-- Sistem de autentificare și securitate pentru utilizatori și psihologi
+- Cautare, folosind informatii despre specializari, servicii, locatia cabinetelor, nume si prenume psiholog și vizualizare profiluri psihologi
+- Rezervare de sedinte cu psihologi prin generarea intervalelor disponibile
+- Confirmarea programarilor de catre psihologi
+- Integrarea programarilor in calendarul personal
+- Administrare si actualizare a profilurilor psihologilor
+- Sistem de autentificare si securitate pentru utilizatori si psihologi
+- Sistem de notificare prin email
 
 ## Cerințe de Instalare și Rulare
 
@@ -35,7 +36,10 @@ Pentru a instala și rula aplicația local, urmați pașii de mai jos:
 6. Navigheaza in branch-ul unde este frontend-ul `git checkout frontend`
 7. Instaleaza dependintele: `npm install`
 8. Ruleaza frontend-ul folosind: `npm run dev`
-
+9. TESTARE: Cautarea unui psiholog:
+    - dupa nume: `nume`, `iulian`
+    - dupa locatie: judet: `constanta`, localitate: `mangalia`
+    
 
 ## Contact
 
