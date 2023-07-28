@@ -1,6 +1,6 @@
 # Aplicatie-web-Booking-Psihologi
 
-Această aplicație este o platformă de rezervare pentru programări cu psihologi. Este dezvoltată folosind tehnologiile Node.js, TypeScript și React cu Vite și TypeScript.
+Aceasta aplicatie este o platforma de rezervare pentru programari cu psihologi.
 
 Codul sursa pentru back-end se afla in branch-ul backend, iar cel pentru front-end se afla in branch-ul frontend.
 ## Descriere
