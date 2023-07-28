@@ -1,9 +1,8 @@
 # Aplicatie-web-Booking-Psihologi
 
-# Rezumat Aplicație - Booking Psihologi
-
 Această aplicație este o platformă de rezervare pentru programări cu psihologi. Este dezvoltată folosind tehnologiile Node.js, TypeScript și React cu Vite și TypeScript.
 
+Codul sursa pentru back-end se afla in branch-ul backend, iar cel pentru frontend se afla in branch-ul frontend.
 ## Descriere
 
 Aplicația de Booking Psihologi facilitează rezervarea de ședințe cu psihologi autorizați. Utilizatorii pot căuta și vizualiza profilurile psihologilor, apoi pot alege un psiholog potrivit pentru ei și pot rezerva o ședință în funcție de disponibilitatea acestuia. Utilizatorii pot completa detaliile necesare și primi confirmarea programării.
