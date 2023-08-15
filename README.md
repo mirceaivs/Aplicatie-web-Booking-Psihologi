@@ -41,10 +41,6 @@ Pentru a instala și rula aplicația local, urmați pașii de mai jos:
     - dupa specializare: `muncii`
     
 
-## Contact
-
-Pentru întrebări sau clarificări, vă rugăm sa ma contactati la adresa [mircea.ivascu17@gmail.com](mailto:mircea.ivascu17@gmail.com).
-
 ## Disclaimer
 
 Aceasta este o aplicație fictiva creata in scop educational. Numele și datele prezentate sunt fictive si nu reprezinta o aplicatie sau serviciu real.
