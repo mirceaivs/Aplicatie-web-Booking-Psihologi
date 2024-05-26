@@ -5,7 +5,7 @@ Codul sursa pentru back-end se afla in branch-ul backend, iar cel pentru front-e
 
 ## Descriere
 
-Aplicația de Booking Psihologi facilitează rezervarea de ședințe cu psihologi autorizați. Utilizatorii pot căuta și vizualiza profilurile psihologilor, apoi pot alege un psiholog potrivit pentru ei și pot rezerva o ședință în funcție de disponibilitatea acestuia. Utilizatorii pot completa detaliile necesare și primi confirmarea programării.
+Aplicația de Booking Psihologi ce facilitează rezervarea de ședințe cu psihologi autorizați. Utilizatorii pot căuta și vizualiza profilurile psihologilor, apoi pot alege un psiholog potrivit pentru ei și pot rezerva o ședință în funcție de disponibilitatea acestuia. Utilizatorii pot completa detaliile necesare și primi confirmarea programării.
 
 ## Tehnologii
 
